@@ -1,0 +1,4 @@
+# Ignore specific files
+config.py
+reminder.txt
+dishes.db
